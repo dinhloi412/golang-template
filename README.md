@@ -1,3 +1,0 @@
-# taimi-be
-
-Taimi backend
